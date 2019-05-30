@@ -1,0 +1,11 @@
+;;extensions to ignore
+*.log
+*.pot
+*.pyc
+movies/.DS_Store
+.DS_Store
+
+;;directories to ignore
+.idea/
+movies/media
+.vscode/
